@@ -1,4 +1,4 @@
-<b> Optimizing Conversion Rates</b> <br>
+# Optimizing Conversion Rates
 
 This notebook details the approaches and the recommendations of Project Outreach which aims to optimize conversion rates for a website.
 
